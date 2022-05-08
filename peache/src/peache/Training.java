@@ -14,7 +14,13 @@ public class Training {
      System.out.println("練習して");
      
      }
-    		  
+    		 
+     
+     //
+     Add a = new Add();
+     int total = a.add(10, 20);
+     
+     System.out.print(total);
 	}
 
 }
