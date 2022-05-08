@@ -11,6 +11,7 @@ public class Training {
      int a = 1;
      
      System.out.println("tesut");
+     System.out.println("練習して");
      
      }
     		  
