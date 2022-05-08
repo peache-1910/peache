@@ -10,7 +10,13 @@ public class Training {
      System.out.println("私の名前は"+name+"です"+age+"才です");
      int a = 1;
      }
-    		  
+    		 
+     
+     //
+     Add a = new Add();
+     int total = a.add(10, 20);
+     
+     System.out.print(total);
 	}
 
 }
