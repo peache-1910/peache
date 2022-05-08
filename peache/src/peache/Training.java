@@ -9,6 +9,10 @@ public class Training {
      String name ="ひらき";
      System.out.println("私の名前は"+name+"です"+age+"才です");
      int a = 1;
+     
+     System.out.println("tesut");
+     System.out.println("練習して");
+     
      }
     		  
 	}
